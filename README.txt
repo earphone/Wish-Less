@@ -1,9 +1,10 @@
 Wish Less README Document
-------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
 Description:
 	Wish Less is a simple app for people to place what they want into lists.
 	Then their friends can go and place dibs on items within their lists.
---------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
 TODO
 	Login
 		implement
@@ -26,7 +27,9 @@ TODO
 					name
 					price
 					link
-					rating of want (1-10 or something simpler "could live without, want, NEED")
+					rating of want 
+						1-10
+						something simpler "could live without, want, NEED"
 					created
 				names
 					prices
@@ -60,7 +63,7 @@ Test
 	send to sign up
 Feathers
 	Join in on dibs	
---------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
 January 23, 4:14 -+- Higashi -+- First Commit
 	Committed this a little later than I should have.
 	Finished xml layouts for login and sign up activities.
