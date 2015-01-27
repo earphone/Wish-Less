@@ -66,7 +66,7 @@ public class ParseStarterProjectActivity extends Activity {
                     @Override
                     public void onClick(View v) {
                         // Send user to sign up activity
-                        Intent intent = new Intent(this, SignUpActivity.class);
+                        Intent intent = new Intent(getBaseContext(), SignUpActivity.class);
                         startActivity(intent);
                     }
                 }
